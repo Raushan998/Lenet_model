@@ -33,5 +33,6 @@ we have collected data from [https://s3.amazonaws.com/img-datasets/mnist.npz](ht
 #### Predicting this digit as 1 using this model
 
 ## Refrences
+
 [https://github.com/Aman-py/MNIST-Digit-Classifier]("https://github.com/Aman-py/MNIST-Digit-Classifier")
 
