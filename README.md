@@ -29,7 +29,7 @@ we have collected data from [https://s3.amazonaws.com/img-datasets/mnist.npz](ht
 
 ## Prediction 
 
-![alt-text]("https://st.depositphotos.com/2899123/3753/v/950/depositphotos_37531843-stock-illustration-1-black-handwritten-number-on.jpg")
+![alt-text]("https://github.com/Raushan998/Lenet_model/blob/master/digits_for_Lenet_model.png")
 #### Predicting this digit as 1 using this model
 
 
