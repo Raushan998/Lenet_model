@@ -1,11 +1,10 @@
 # Lenet_model
 
-###Library Used
+### Library Used
 
-*Numpy
-*Pandas
-*Keras
-*Opencv
-*Matplotlib
+* Numpy
+* Pandas
+* Keras
+* Opencv
+* Matplotlib
 
-##
