@@ -34,5 +34,6 @@ we have collected data from [https://s3.amazonaws.com/img-datasets/mnist.npz](ht
 
 ## Refrences
 
-[Aman Agrawal](https://github.com/Aman-py/MNIST-Digit-Classifier)
+* [https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
+* [https://colah.github.io/posts/2014-10-Visualizing-MNIST/](https://colah.github.io/posts/2014-10-Visualizing-MNIST/)
 
