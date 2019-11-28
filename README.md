@@ -34,5 +34,5 @@ we have collected data from [https://s3.amazonaws.com/img-datasets/mnist.npz](ht
 
 ## Refrences
 
-[https://github.com/Aman-py/MNIST-Digit-Classifier]("https://github.com/Aman-py/MNIST-Digit-Classifier")
+[Aman Agrawal] ("https://github.com/Aman-py/MNIST-Digit-Classifier")
 
